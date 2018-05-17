@@ -80,7 +80,7 @@ We predict how the dog acts in the visual world in response to various situation
 <th class="tg-us36">All joints</th>
 </tr>
 <tr>
-<td class="tg-us36">CNN(Baseline)</td>
+<td class="tg-us36">CNN (Baseline)</td>
 <td class="tg-us36">19.84</td>
 <td class="tg-us36">0.2171</td>
 <td class="tg-us36">63.42</td>
@@ -153,15 +153,16 @@ To test the network:
 ### Press Coverage
 
 <a href="https://techcrunch.com/2018/04/11/whos-a-good-ai-dog-based-data-creates-a-canine-machine-learning-system/"><img src="figs/techcrunch.png" width="100px"></a>
+&nbsp;
 <a href="https://www.technologyreview.com/s/610775/this-ai-thinks-like-a-dog/"><img src="figs/mittechreview.png" width="100px"></a>
+&nbsp;
 <a href="http://www.pbs.org/wgbh/nova/next/tech/ai-trained-to-act-like-a-dog/"><img src="figs/pbs.png" width="100px"></a>
+&nbsp;
 <a href="https://www.theverge.com/2018/4/14/17234570/artificial-intelligence-dogs-research-science-learning"><img src="figs/verge.png" width="100px"></a>
+&nbsp;
 <a href="https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/real-dog-behavior-could-inspire-robot-dogs"><img src="figs/ieeespectrum.png" width="100px"></a>
+&nbsp;
 <a href="https://www.nbcnews.com/mach/science/why-scientists-are-teaching-ai-think-dog-ncna869266"><img src="figs/nbc.png" width="50px"></a>
+&nbsp;
 <a href="http://www.euronews.com/2018/04/26/why-scientists-are-teaching-ai-think-dog-ncna869266"><img src="figs/euronews.png" width="100px"></a>
-
-<!-- http://www.govtech.com/question-of-the-day/Question-of-the-Day-for-04252018.html -->
-<!-- https://topdigital.agency/2018/04/13/good-girl-helps-university-washington-researchers-understand-mans-best-friend/ -->
-<!-- https://www.digitaltrends.com/cool-tech/ai-behaves-like-dogs/ -->
-<!--https://www.bbc.co.uk/programmes/w172w4hlgkwtbj7-->
-
+&nbsp;
