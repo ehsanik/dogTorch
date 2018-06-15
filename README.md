@@ -160,11 +160,12 @@ To test the network:
 &nbsp;
 <a href="https://www.theverge.com/2018/4/14/17234570/artificial-intelligence-dogs-research-science-learning"><img src="figs/verge.png" width="100px"></a>
 &nbsp;
+
 <a href="https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/real-dog-behavior-could-inspire-robot-dogs"><img src="figs/ieeespectrum.png" width="100px"></a>
 &nbsp;
 <a href="https://www.nbcnews.com/mach/science/why-scientists-are-teaching-ai-think-dog-ncna869266"><img src="figs/nbc.png" width="50px"></a>
 &nbsp;
 <a href="http://www.euronews.com/2018/04/26/why-scientists-are-teaching-ai-think-dog-ncna869266"><img src="figs/euronews.png" width="100px"></a>
 &nbsp;
-<a href="https://www.reuters.com/video/2018/06/14/dog-vision-project-analyses-canine-behav?videoId=435834651&videoChannel=118065&channelName=Moments+of+Innovation"><img src="figs/reuters.png" width="100px"></a>
+<a href="https://www.reuters.com/video/2018/06/14/dog-vision-project-analyses-canine-behav?videoId=435834651&videoChannel=118065&channelName=Moments+of+Innovation"><img src="figs/reuters.png" width="150px"></a>
 &nbsp;
