@@ -166,3 +166,5 @@ To test the network:
 &nbsp;
 <a href="http://www.euronews.com/2018/04/26/why-scientists-are-teaching-ai-think-dog-ncna869266"><img src="figs/euronews.png" width="100px"></a>
 &nbsp;
+<a href="https://www.reuters.com/video/2018/06/14/dog-vision-project-analyses-canine-behav?videoId=435834651&videoChannel=118065&channelName=Moments+of+Innovation"><img src="figs/reuters.png" width="100px"></a>
+&nbsp;
