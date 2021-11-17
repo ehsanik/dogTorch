@@ -45,7 +45,7 @@ information.
 
 <center><img src="figs/teaser_data_collect.jpg" height="300px" ></center>
 
-The dataset can be downloaded from [here](https://homes.cs.washington.edu/~kianae/DECADE.zip).
+The dataset can be downloaded from [here](https://drive.google.com/file/d/1ctoCEu7Oacn2LKrS2_AbZnrNXNixuvWb/view?usp=sharing).
 
 ### Running the code
 
@@ -60,12 +60,12 @@ This source code is implemented using PyTorch framework (v.0.2.0_3). For install
 		git clone https://github.com/ehsanik/dogTorch
 		cd dogTorch
 
-3. Download the dataset from [here](https://homes.cs.washington.edu/~kianae/DECADE.zip) and unzip it.
+3. Download the dataset from [here](https://drive.google.com/file/d/1ctoCEu7Oacn2LKrS2_AbZnrNXNixuvWb/view?usp=sharing) and unzip it.
 2. Make a link to the dataset.
 
 		ln -s /PATH/TO/DATASET data
 
-3. Download the pretrained weights from [here](https://homes.cs.washington.edu/~kianae/weights_dog_cvpr18.zip) and unzip it.
+3. Download the pretrained weights from [here](https://drive.google.com/file/d/1nqcmyuqhNERz9RVC7lQte2Hb2chxbw8c/view?usp=sharing) and unzip it.
 
 #### Acting like a dog
 
